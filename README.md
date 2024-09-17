@@ -1,6 +1,6 @@
 Hi My name is Fabio Williams-Xavier.
 
-✨ I am currently doing a full stack bootcamp with code institute
+✨ I am currently doing a Full Stack Bootcamp with Code Institute
 
 
 <!---
